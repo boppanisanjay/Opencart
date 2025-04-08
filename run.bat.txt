@@ -1,0 +1,2 @@
+cd C:\Users\sanjay.boppani\eclipse-workspace\Opencart
+mvn test
