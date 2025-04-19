@@ -1682,3 +1682,29 @@
 21:51:17.471 [main] INFO  testCases.TC002_Logintest - Test execution started on OS: windows with Browser: edge
 21:51:21.025 [main] INFO  testCases.TC002_Logintest - Edge browser launched successfully.
 21:51:26.788 [main] INFO  testCases.TC002_Logintest - ***My Account page is displayed***
+15:08:41.294 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sanjay.boppani\eclipse-workspace\Opencart\master.xml"
+15:08:42.301 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sanjay.boppani\eclipse-workspace\Opencart\master.xml
+
+15:08:42.944 [main] INFO  testCases.TC001_AccountRegistrationTest - Test execution started on OS: windows with Browser: edge
+15:08:56.817 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sanjay.boppani\eclipse-workspace\Opencart\master.xml"
+15:08:57.504 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sanjay.boppani\eclipse-workspace\Opencart\master.xml
+
+15:08:58.056 [main] INFO  testCases.TC001_AccountRegistrationTest - Test execution started on OS: windows with Browser: edge
+15:09:19.876 [main] INFO  testCases.TC001_AccountRegistrationTest - Edge browser launched successfully.
+15:09:21.890 [main] INFO  testCases.TC001_AccountRegistrationTest - Edge browser launched successfully.
+15:09:33.669 [main] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on myaccount***
+15:09:33.692 [main] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on myaccount***
+15:09:36.157 [main] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on Register***
+15:09:36.213 [main] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on Register***
+15:09:42.669 [main] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on continue***
+15:09:42.748 [main] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on continue***
+15:09:42.847 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Account created successfully***
+15:09:43.038 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Account created successfully***
+15:09:46.110 [main] INFO  testCases.TC002_Logintest - Test execution started on OS: windows with Browser: edge
+15:09:46.145 [main] INFO  testCases.TC002_Logintest - Test execution started on OS: windows with Browser: edge
+15:09:52.280 [main] INFO  testCases.TC002_Logintest - Edge browser launched successfully.
+15:09:56.941 [main] INFO  testCases.TC002_Logintest - Edge browser launched successfully.
+15:10:11.356 [main] INFO  testCases.TC002_Logintest - ***My Account page is displayed***
+15:10:13.215 [main] INFO  testCases.TC002_Logintest - ***My Account page is displayed***
