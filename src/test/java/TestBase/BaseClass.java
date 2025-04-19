@@ -27,6 +27,8 @@ import java.nio.file.StandardCopyOption;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.Platform;
 
+
+
 public class BaseClass {
 	public static WebDriver driver;
 	public Logger logger;  //log4j
@@ -50,9 +52,11 @@ public class BaseClass {
 			 * below code is added to avoid (Apr 03, 2025 5:28:52 PM org.openqa.selenium.remote.tracing.opentelemetry.OpenTelemetryTracer createTracer
 				INFO: Using OpenTelemetry for tracing)
 			 * System.setProperty("seleniumManagerTracing", "false");
-			 * */
+			 * 
 			
 			 //System.setProperty("seleniumManagerTracing", "false");
+			  * 
+			  */
 			 
 			DesiredCapabilities capabilities = new DesiredCapabilities();
 			//capabilities.setCapability("se:tracing", "OFF");
